@@ -22,10 +22,15 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-### 🤝🏻 &nbsp;Connect with Me 🤝🏻
+## Contact
+<div style="display: flex; gap: 2; flex-wrap: wrap">
+  <a href=https://www.linkedin.com/in/joaooliveira375/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-oliveira-88b229187/">Linkedin</a>
+## Status
+<div style="display: flex; gap: 2; jusfiy-content: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaooliveira375&show_icons=true&theme=neon" alt="status">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooliveira375&layout=compact&theme=neon" alt="language-used">
+</div>
 
 
 
